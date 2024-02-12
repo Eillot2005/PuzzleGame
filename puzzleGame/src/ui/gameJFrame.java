@@ -318,6 +318,3 @@ public class gameJFrame extends JFrame implements KeyListener,MouseListener {
 
     }
 }
-//here
-//a try
-//2
