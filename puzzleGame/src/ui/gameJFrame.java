@@ -317,4 +317,4 @@ public class gameJFrame extends JFrame implements KeyListener,MouseListener {
     public void mouseExited(MouseEvent e) {
 
     }
-} //你好
+}
