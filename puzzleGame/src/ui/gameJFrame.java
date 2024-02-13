@@ -317,5 +317,4 @@ public class gameJFrame extends JFrame implements KeyListener,MouseListener {
     public void mouseExited(MouseEvent e) {
 
     }
-}//today is 2.13
-
+}
